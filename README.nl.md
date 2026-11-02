@@ -2,6 +2,8 @@
 
 Zet CSV om in nette Markdown-, HTML- of tabgescheiden tabellen. Bekijk het resultaat voordat je het in een README, issue, document of spreadsheet plakt.
 
+**Live demo:** [Probeer Tablecraft](https://codearcade-ctrl.github.io/tablecraft/)
+
 **Talen:** [English](README.md) | [Nederlands](README.nl.md)
 
 ## Functies

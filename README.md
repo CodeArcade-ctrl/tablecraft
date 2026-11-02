@@ -2,6 +2,8 @@
 
 Turn CSV into clean Markdown, HTML, or tab-separated tables. Preview the result before copying it into a README, issue, document, or spreadsheet.
 
+**Live demo:** [Try Tablecraft](https://codearcade-ctrl.github.io/tablecraft/)
+
 **Languages:** [English](README.md) | [Nederlands](README.nl.md)
 
 ## Features
